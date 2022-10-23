@@ -1,0 +1,77 @@
+2022-10-08 12:28:27,526 [1] DEBUG PDS.WITSMLstudio.Desktop.Bootstrapper SelectAssemblies - Selected Assemblies:
+AutoMapper, Version=4.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+Avro, Version=0.9.0.0, Culture=neutral, PublicKeyToken=b1248d7eeb9d0814
+Caliburn.Micro, Version=2.0.2.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f
+Caliburn.Micro.Platform.Core, Version=2.0.2.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f
+Caliburn.Micro.Platform, Version=2.0.2.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f
+Energistics.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bacb93980f36ff32
+Energistics.DataAccess.PRODML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Energistics.DataAccess.RESQML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Energistics.DataAccess.WITSML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ETP.DevKit, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+ETP.Messages, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+FluentValidationNA, Version=1.2.16.24816, Culture=neutral, PublicKeyToken=0950390b87309e14
+ICSharpCode.AvalonEdit, Version=5.0.1.0, Culture=neutral, PublicKeyToken=9cc39be672370310
+LinqExtender, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a
+Microsoft.IdentityModel.Logging, Version=1.0.0.127, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Microsoft.IdentityModel.Protocols, Version=2.0.0.127, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Microsoft.IdentityModel.Protocols.OpenIdConnect, Version=2.0.0.127, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Microsoft.IdentityModel.Tokens, Version=5.0.0.127, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+MimeTypes, Version=2.3.2.0, Culture=neutral, PublicKeyToken=null
+Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+Nito.AsyncEx, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+Nito.AsyncEx.Enlightenment, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Desktop.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Desktop.Plugins.DataReplay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Desktop.Plugins.EtpBrowser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+PDS.WITSMLstudio.Framework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+SuperSocket.ClientEngine, Version=0.10.0.0, Culture=neutral, PublicKeyToken=ee9af13f57f00acc
+SuperSocket.Common, Version=1.6.0.4, Culture=neutral, PublicKeyToken=6c80000676988ebb
+SuperSocket.SocketBase, Version=1.6.0.4, Culture=neutral, PublicKeyToken=6c80000676988ebb
+SuperSocket.SocketEngine, Version=1.6.0.4, Culture=neutral, PublicKeyToken=6c80000676988ebb
+SuperWebSocket, Version=0.9.0.0, Culture=neutral, PublicKeyToken=7ba53b9a7cef5d1c
+System.IdentityModel.Tokens.Jwt, Version=5.0.0.127, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Linq.Dynamic, Version=1.1.14.15853, Culture=neutral, PublicKeyToken=b72be0322d1b32a8
+System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+WebSocket4Net, Version=0.15.2.11, Culture=neutral, PublicKeyToken=eb4e154b696bf72a
+Xceed.Wpf.AvalonDock, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+Xceed.Wpf.AvalonDock.Themes.Aero, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+Xceed.Wpf.AvalonDock.Themes.Metro, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+Xceed.Wpf.AvalonDock.Themes.VS2010, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+Xceed.Wpf.DataGrid, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+Xceed.Wpf.Toolkit, Version=2.9.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4
+2022-10-08 12:28:35,215 [1] DEBUG PDS.WITSMLstudio.Framework.ConfiguredCatalog .ctor - Loaded Assemblies:
+PDS.WITSMLstudio.Desktop.Core
+PDS.WITSMLstudio.Desktop.Plugins.DataReplay
+PDS.WITSMLstudio.Desktop.Plugins.EtpBrowser
+PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector
+PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser
+2022-10-08 12:28:36,805 [1] DEBUG PDS.WITSMLstudio.Desktop.Core.ViewModels.ShellViewModel .ctor - Loading Shell
+2022-10-08 12:28:43,673 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector.ViewModels.MainViewModel .ctor - Creating view model instance
+2022-10-08 12:28:45,950 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector.ViewModels.FamilyVersionViewModel .ctor - Creating view model instance
+2022-10-08 12:28:46,574 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector.ViewModels.FamilyVersionObjectsViewModel .ctor - Creating view model instance
+2022-10-08 12:28:46,577 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector.ViewModels.DataObjectViewModel .ctor - Creating view model instance
+2022-10-08 12:28:46,579 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.ObjectInspector.ViewModels.DataPropertiesViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,312 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.MainViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,342 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.MainViewModel CreateProxy - A new Proxy is being created with URI: ; WitsmlVersion: 
+2022-10-08 12:28:49,369 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.RequestViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,372 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Result.ResultViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,453 [1] DEBUG PDS.WITSMLstudio.Desktop.Core.ViewModels.ShellViewModel LoadPlugins - Plugins Loaded:
+WITSML Browser
+ETP Browser
+Data Producer
+Object Inspector
+2022-10-08 12:28:49,456 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.MainViewModel OnInitialize - Initializing screen
+2022-10-08 12:28:49,463 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.MainViewModel LoadScreens - Loading MainViewModel screens
+2022-10-08 12:28:49,469 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.RequestViewModel OnInitialize - Initializing screen
+2022-10-08 12:28:49,470 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.RequestViewModel LoadScreens - Loading RequestViewModel screens
+2022-10-08 12:28:49,472 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.SettingsViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,477 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.TreeViewViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,487 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.QueryViewModel .ctor - Creating view model instance
+2022-10-08 12:28:49,489 [1] DEBUG PDS.WITSMLstudio.Desktop.Plugins.WitsmlBrowser.ViewModels.Request.SettingsViewModel OnInitialize - Initializing screen
+2022-10-08 12:28:52,374 [1] DEBUG PDS.WITSMLstudio.Desktop.Core.ViewModels.ConnectionViewModel .ctor - Creating View Model
+2022-10-08 12:29:01,548 [9] DEBUG PDS.WITSMLstudio.Desktop.Core.ViewModels.ConnectionViewModel .ctor - Creating View Model
